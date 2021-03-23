@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+
+
+<TextArea editable="false" prefHeight="200.0" prefWidth="465.0" stylesheets="@Rules.css" text="The rules of the game are:&#10;The 1 button of the Numpad moves the muose diagnoly down to the left &#10;The 2 button of the Numpad moves the muose down&#10;The 3 button of the Numpad moves the muose diagnoly down to the right&#10;The 4 button of the Numpad moves the muose left&#10;The 6 button of the Numpad moves the muose right&#10;The 7 button of the Numpad moves the muose diagnoly up to the left&#10;The 8 button of the Numpad moves the muose up&#10;The 9 button of the Numpadmoves the muose diagnoly up to the right&#10;&#10;The Ctrl boutton open the option to zoom in and zoom out.&#10;Zoom in: Press Ctrl and scroll the mouse up&#10;Zoom out: Press Ctrl and scroll the mouse down&#10;&#10;When the mouse reaches the chesse, the charge song will be play.&#10;The generate maze button is created new maze only at first time, for next new game please press at New game option.&#10;The solve maze button solve the maze from the start position of the chracter." xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" />

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+
+<TextArea editable="false" prefHeight="130.0" prefWidth="346.0" text="The Mouse Maze is a part of project that the developers &#10;
+had to pass there cours &#10;&#10;it was built in 2020 at a  decay of a corona virus.&#10;&#10;
+It is a fun game to pass the time, hope you will enjoy the game.&#10;&#10;&#10;" />
+

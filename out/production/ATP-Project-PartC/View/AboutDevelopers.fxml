@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+
+
+<TextArea editable="false" text="The developers of the Mouse Maze are two student at the Software Information System Engineering Department &#10;in Ben Gurion University in Israel.&#10;&#10;They create this game as a part of there course, and they enjoy it.&#10;because it is fun to programing a game for their first time . &#10;we hope you enjoy the Mouse Maze,&#10;Barak Yacouel&#10;Shai Levi" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" />
